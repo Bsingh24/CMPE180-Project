@@ -1,0 +1,52 @@
+11/19/2023 02:27:28 PM - DEBUG - authentication.py setup_ssl 131 - Building SSL context
+11/19/2023 02:27:28 PM - DEBUG - authentication.py setup_ssl 142 - Switching to SSL
+11/19/2023 02:27:28 PM - DEBUG - authentication.py setup_ssl 145 - SSL has been enabled
+11/19/2023 02:27:28 PM - DEBUG - protocol.py make_auth 329 - Starting authorization phase
+11/19/2023 02:27:28 PM - DEBUG - protocol.py make_auth 343 - The provided initial strategy is caching_sha2_password
+11/19/2023 02:27:28 PM - INFO - __init__.py get_auth_plugin 151 - package: mysql.connector.plugins
+11/19/2023 02:27:28 PM - INFO - __init__.py get_auth_plugin 152 - plugin_name: caching_sha2_password
+11/19/2023 02:27:28 PM - INFO - __init__.py get_auth_plugin 156 - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+11/19/2023 02:27:28 PM - DEBUG - authentication.py _handle_server_response 276 - Exchanging further packets
+11/19/2023 02:27:28 PM - DEBUG - authentication.py _handle_server_response 283 - caching_sha2_password completed succesfully
+11/19/2023 02:27:44 PM - INFO - applicationquery.py main 35 - User Successfully Login
+11/19/2023 02:28:23 PM - INFO - applicationquery.py main 71 - Successful Query Search
+11/19/2023 02:28:43 PM - INFO - applicationquery.py main 71 - Successful Query Search
+11/19/2023 02:30:57 PM - INFO - applicationquery.py main 71 - Successful Query Search
+11/19/2023 02:32:19 PM - ERROR - applicationquery.py main 73 - Invalid Query
+11/19/2023 02:32:29 PM - INFO - applicationquery.py main 71 - Successful Query Search
+11/19/2023 02:34:28 PM - INFO - applicationquery.py main 71 - Successful Query Search
+11/19/2023 02:34:47 PM - INFO - applicationquery.py main 71 - Successful Query Search
+11/19/2023 02:37:39 PM - INFO - applicationquery.py main 71 - Successful Query Search
+11/19/2023 02:37:45 PM - INFO - applicationquery.py main 71 - Successful Query Search
+11/19/2023 02:38:15 PM - INFO - applicationquery.py main 71 - Successful Query Search
+11/19/2023 02:39:40 PM - ERROR - applicationquery.py main 73 - Invalid Query
+11/19/2023 02:40:26 PM - INFO - applicationquery.py main 71 - Successful Query Search
+11/19/2023 02:40:50 PM - ERROR - applicationquery.py main 73 - Invalid Query
+11/19/2023 02:41:40 PM - ERROR - applicationquery.py main 73 - Invalid Query
+11/19/2023 02:42:01 PM - INFO - applicationquery.py main 71 - Successful Query Search
+11/19/2023 02:43:06 PM - INFO - applicationquery.py main 71 - Successful Query Search
+11/19/2023 02:43:09 PM - INFO - applicationquery.py main 52 - User Successfully Logout
+11/19/2023 02:43:41 PM - INFO - applicationquery.py main 35 - User Successfully Login
+11/19/2023 02:43:45 PM - INFO - applicationquery.py main 71 - Successful Query Search
+11/19/2023 02:43:51 PM - ERROR - applicationquery.py main 73 - Invalid Query
+11/19/2023 02:44:08 PM - INFO - applicationquery.py main 71 - Successful Query Search
+11/19/2023 02:44:15 PM - INFO - applicationquery.py main 71 - Successful Query Search
+11/19/2023 02:44:20 PM - INFO - applicationquery.py main 71 - Successful Query Search
+11/19/2023 02:44:40 PM - INFO - applicationquery.py main 71 - Successful Query Search
+11/19/2023 02:44:57 PM - INFO - applicationquery.py main 71 - Successful Query Search
+11/19/2023 02:45:20 PM - INFO - applicationquery.py main 71 - Successful Query Search
+11/19/2023 02:45:22 PM - INFO - applicationquery.py main 71 - Successful Query Search
+11/19/2023 02:45:33 PM - INFO - applicationquery.py main 71 - Successful Query Search
+11/19/2023 02:45:45 PM - INFO - applicationquery.py main 71 - Successful Query Search
+11/19/2023 02:45:47 PM - INFO - applicationquery.py main 71 - Successful Query Search
+11/19/2023 02:45:53 PM - INFO - applicationquery.py main 71 - Successful Query Search
+11/19/2023 02:45:59 PM - INFO - applicationquery.py main 71 - Successful Query Search
+11/19/2023 02:48:25 PM - INFO - applicationquery.py main 71 - Successful Query Search
+11/19/2023 02:48:30 PM - ERROR - applicationquery.py main 73 - Invalid Query
+11/19/2023 02:48:39 PM - INFO - applicationquery.py main 71 - Successful Query Search
+11/19/2023 02:48:47 PM - ERROR - applicationquery.py main 73 - Invalid Query
+11/19/2023 02:49:06 PM - INFO - applicationquery.py main 71 - Successful Query Search
+11/19/2023 02:49:14 PM - INFO - applicationquery.py main 71 - Successful Query Search
+11/19/2023 02:49:18 PM - INFO - applicationquery.py main 71 - Successful Query Search
+11/19/2023 05:50:14 PM - INFO - applicationquery.py main 52 - User Successfully Logout
+11/19/2023 05:50:15 PM - INFO - applicationquery.py main 20 - User Exits Program

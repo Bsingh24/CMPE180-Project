@@ -1,0 +1,36 @@
+11/19/2023 07:50:11 PM - DEBUG - authentication.py setup_ssl 131 - Building SSL context
+11/19/2023 07:50:11 PM - DEBUG - authentication.py setup_ssl 142 - Switching to SSL
+11/19/2023 07:50:11 PM - DEBUG - authentication.py setup_ssl 145 - SSL has been enabled
+11/19/2023 07:50:11 PM - DEBUG - protocol.py make_auth 329 - Starting authorization phase
+11/19/2023 07:50:11 PM - DEBUG - protocol.py make_auth 343 - The provided initial strategy is caching_sha2_password
+11/19/2023 07:50:11 PM - INFO - __init__.py get_auth_plugin 151 - package: mysql.connector.plugins
+11/19/2023 07:50:11 PM - INFO - __init__.py get_auth_plugin 152 - plugin_name: caching_sha2_password
+11/19/2023 07:50:11 PM - INFO - __init__.py get_auth_plugin 156 - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+11/19/2023 07:50:11 PM - DEBUG - authentication.py _handle_server_response 276 - Exchanging further packets
+11/19/2023 07:50:11 PM - DEBUG - authentication.py _handle_server_response 283 - caching_sha2_password completed succesfully
+11/19/2023 07:50:16 PM - INFO - application.py main 257 - Successful User Login
+11/19/2023 07:50:43 PM - INFO - application.py insert 166 - Successful Value Insertion
+11/19/2023 07:50:54 PM - ERROR - application.py select 95 - Unsuccessful Query Search
+11/19/2023 07:51:32 PM - INFO - application.py select 93 - Successful Query Search
+11/19/2023 07:51:53 PM - INFO - application.py select 93 - Successful Query Search
+11/19/2023 07:52:58 PM - INFO - application.py delete 191 - Successful Row Deletion
+11/19/2023 07:53:11 PM - INFO - application.py select 93 - Successful Query Search
+11/19/2023 07:53:26 PM - INFO - application.py delete 191 - Successful Row Deletion
+11/19/2023 07:53:33 PM - INFO - application.py select 93 - Successful Query Search
+11/19/2023 07:53:57 PM - ERROR - application.py insert 168 - Unsuccessful Value Insertion
+11/19/2023 07:56:47 PM - INFO - application.py insert 166 - Successful Value Insertion
+11/19/2023 07:57:06 PM - INFO - application.py insert 166 - Successful Value Insertion
+11/19/2023 07:59:06 PM - ERROR - application.py update 129 - Unsuccessful Query Update
+11/19/2023 07:59:40 PM - ERROR - application.py update 129 - Unsuccessful Query Update
+11/19/2023 08:00:26 PM - INFO - application.py update 127 - Successful Query Update
+11/19/2023 08:02:23 PM - INFO - application.py delete 191 - Successful Row Deletion
+11/19/2023 08:02:29 PM - ERROR - application.py select 95 - Unsuccessful Query Search
+11/19/2023 08:02:45 PM - INFO - application.py select 93 - Successful Query Search
+11/19/2023 08:05:17 PM - INFO - application.py insert 166 - Successful Value Insertion
+11/19/2023 08:05:31 PM - INFO - application.py select 93 - Successful Query Search
+11/19/2023 08:11:10 PM - INFO - application.py admin 220 - User Logout
+11/19/2023 08:11:18 PM - INFO - application.py main 257 - Successful User Login
+11/19/2023 08:12:37 PM - INFO - application.py select 93 - Successful Query Search
+11/19/2023 08:15:33 PM - INFO - application.py select 93 - Successful Query Search
+11/19/2023 08:16:45 PM - INFO - application.py admin 234 - User Logout
+11/19/2023 08:16:47 PM - INFO - application.py main 242 - Exit Program
